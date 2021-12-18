@@ -1,0 +1,3 @@
+# Kaggle notebooks
+
+## Since Kaggle has recently added a deature to sync notebooks with github so why not use the features...
